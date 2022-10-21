@@ -27,7 +27,6 @@ int print_add(va_list arguments, char *buf, unsigned int ibuf)
 	isnegative = 0;
 	if (int_input < 0)
 	{
-	
 
 		int_input = (int_input * -1) - 1;
 		isnegative = 1;
