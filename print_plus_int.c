@@ -2,7 +2,6 @@
 /**
  * prinpint - print integer with plus symbol
  * @arguments: input sring
-
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: number of chars printed
